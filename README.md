@@ -14,7 +14,6 @@ To enhance productivity and minimize simple errors, I implemented Infrastructure
 ## CI/CD Integration
 Continuous Integration and Continuous Deployment (CI/CD) were essential for seamless updates across my project. I created three GitHub repositories for the frontend, backend, and infrastructure code, using GitHub Actions workflows to automate testing and deployment. These workflows ensured that changes pushed to the repositories were automatically tested and deployed to the appropriate AWS resources, streamlining updates and maintaining consistency across all components.  
 
-## Challenges
 While updating my S3 bucket and testing my website, I was initially confused when changes didn’t appear. I realized I needed to manually invalidate the CloudFront cache after each update to my `index.html` file. This highlighted the importance of CI/CD pipelines, so I added a step to my GitHub Actions workflow to automate cache invalidation, ensuring users always saw the latest version.
 
 ## In Conclusion
