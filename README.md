@@ -19,4 +19,4 @@ While updating my S3 bucket and testing my website, I was initially confused whe
 ## In Conclusion
 This project provided valuable insights into cloud architecture, allowing me to develop practical skills with AWS services like S3, Lambda, API Gateway, DynamoDB, and CloudFront. I learned how these services integrate to build scalable, secure, and efficient systems. It highlighted the importance of automation through Infrastructure as Code and CI/CD pipelines, as well as the need for precise configuration to ensure functionality. This process sharpened my problem-solving abilities, strengthened my understanding of cloud design, and reinforced my academic resilience.  
 
-You can view my completed Cloud Resume Challenge at [evageck.com]. Wishing everyone a wonderful and blessed Thanksgiving!
+You can view my completed Cloud Resume Challenge at [evageck.com](https://evageck.com). Wishing everyone a wonderful and blessed Thanksgiving!
